@@ -1,3 +1,3 @@
 # test-public-repo-cache
 
-This repo is used as test data to test if OPS can cache public repo successfully.
+This repo is used as test data to test if OPS can cache **public** and **unprovisioned** repo successfully.
